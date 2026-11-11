@@ -1,0 +1,12 @@
+# Copie para .env e preencha (cp .envex .env)
+JWT_SECRET=troque-por-uma-chave-grande-e-aleatoria
+JWT_REFRESH_SECRET=outra-chave-diferente-da-primeira
+ACCESS_TOKEN_EXPIRES_IN=15m
+PORT=3000
+# Origens permitidas no CORS, separadas por vírgula
+CORS_ORIGIN=http://localhost:3001
+# Admin criado automaticamente no primeiro start (seed)
+ADMIN_NAME=Administrador
+ADMIN_USERNAME=admin
+ADMIN_EMAIL=admin@biblioteca.com
+ADMIN_PASSWORD=123456
