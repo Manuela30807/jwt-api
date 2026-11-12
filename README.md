@@ -79,3 +79,7 @@ Todos exigem access token, exceto login/refresh/logout. **(A)** = só administra
 | GET `/v1/reports/dashboard` **(A)** | totais |
 
 Erros: `{ "error": "mensagem" }` com 400 (validação), 401, 403, 404, 409 (conflito/regra de negócio).
+
+## Vídeo de apresentação
+
+[Assistir ao vídeo do projeto](https://drive.google.com/file/d/1Po7-PIUL0AptQ-MbCeCsCmkUpg0GcKjo/view?usp=sharing)
